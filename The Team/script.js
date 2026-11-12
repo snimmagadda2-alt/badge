@@ -1,8 +1,8 @@
 // Edit names, handles, and verified status in this list.
 const creators = [
 	{ name: "Suryansh Nimmagadda", handle: "Programmerare", points: 30000, trend: 1, verified: true },
-	{ name: "Jonathan", handle: "Hjälp För Tillåtelse", points: 15000, trend: 2, verified: true },
-	{ name: "Albin Barbim", handle: "Support", points: 15000, trend: 3, verified: true }
+	{ name: "_NULL_", handle: "_BLANK_", points: 15000, trend: 2, verified: false },
+	{ name: "_NULL_", handle: "_BLANK", points: 15000, trend: 3, verified: false }
 
 ];
 
